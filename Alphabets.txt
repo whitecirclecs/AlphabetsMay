@@ -1,7 +1,6 @@
 A
 B
 C
-D
 E
 F
 Tomorrow will be Saturday
@@ -9,3 +8,6 @@ Today is Friday
 F
 Today is Thursday
 G
+=======
+C
+
